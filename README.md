@@ -20,25 +20,15 @@ Java 11
 
 ## Como alterar as variáveis de ambiente
 Entrar no site: https://www.azul.com/downloads/?version=java-17-lts&package=jdk
-
 Baixar o arquivo zip - Java 17 (LTS)
-
 Excluir versões anteriores da pasta " C:\Program Files\Java" -> Criar uma pasta Java se precisar
-
 Extrair o arquivo zip e colar nessa pasta acima
-
 Ir pra "Editar as Variáveis de Ambiente do Sistema" -> Avançado -> Variáveis de ambiente.. -> Variáveis do sistema -> Novo... ->
-
 Nome da variável: JAVA_HOME
-
 Valor da variável: C:\Program Files\Java\zulu17.38.21-ca-jdk17.0.5-win_x64
-
 Clicar em OK
-
 Ir pra "Editar as Variáveis de Ambiente do Sistema" -> Avançado -> Variáveis de ambiente.. -> Variáveis do sistema -> Path  -> Editar ... -> C:\Program Files\Java\zulu17.38.21-ca-jdk17.0.5-win_x64\bin (mover ao máximo pra cima)
-
 Clicar em OK
-
 Ir no Prompt de controle e escrever: java --version e verificar os resultados
 
 ```bash
