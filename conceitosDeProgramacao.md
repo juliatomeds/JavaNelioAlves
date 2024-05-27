@@ -2,10 +2,10 @@
 
 ## Algoritmo, automação e programa de computador
 - Algoritmo: 
-    🔸Sequência finita de instruções para se resolver um problema.
-    🔸Aplica-se a diversas áreas de conhecimento
-    🔸Exemplo: Problema: lavar roupa suja
-        Algoritmo:
+    - Sequência finita de instruções para se resolver um problema.
+    - Aplica-se a diversas áreas de conhecimento
+    - Exemplo: Problema: lavar roupa suja
+        - Algoritmo:
         1) Colocar a roupa em um recipiente
         2) Colocar um pouco de sabão e amaciante
         3) Encher de água
@@ -15,28 +15,28 @@
         7) Enxaguar
         8) Torcer
 - Automação
-    🔸Consiste em utilizar máquina(s) para executar o procedimento desejado de forma automática ou semiautomática.
+    - Consiste em utilizar máquina(s) para executar o procedimento desejado de forma automática ou semiautomática.
 - Computador
-  🔸Hardware - parte física (a máquina em si)
-  🔸Software - parte lógica (programas)
-    🔸Sistema operacional (Windows, Linux, iOS)
-    🔸Aplicativos (apps de escritório, app de câmera, navegador web)
-    🔸Jogos 
-    🔸Utilitários (Antivírus, compactador de arquivos)
-    🔸Outros
+  - Hardware - parte física (a máquina em si)
+  - Software - parte lógica (programas)
+    - Sistema operacional (Windows, Linux, iOS)
+    - Aplicativos (apps de escritório, app de câmera, navegador web)
+    - Jogos 
+    - Utilitários (Antivírus, compactador de arquivos)
+    - Outros
 - Programa ~ Algoritmo
-  🔸Programas de computador são algoritmos executados pelo computador (em linhas gerais).
-  🔸Conclusão: o computador é uma máquina que automatiza a execução de algoritmos.
-  🔸Qualquer algoritmo? Não. Apenas algoritmos computacionais:
-    🔸Processamento de dados
-    🔸Cálculos
+  - Programas de computador são algoritmos executados pelo computador (em linhas gerais).
+  - Conclusão: o computador é uma máquina que automatiza a execução de algoritmos.
+  - Qualquer algoritmo? Não. Apenas algoritmos computacionais:
+    - Processamento de dados
+    - Cálculos
 - Resumo da aula
-  • Algoritmo: sequência finita de instruções para se resolver um problema
-  • Automação: quando uma máquina realiza o algoritmo
-  • Computador:
-  • hardware / software
-  • máquina que automatiza algoritmos (de cálculo)
-  • Programa de computador: algoritmo executado pelo computador
+  - Algoritmo: sequência finita de instruções para se resolver um problema
+  - Automação: quando uma máquina realiza o algoritmo
+  - Computador:
+  - hardware / software
+  - máquina que automatiza algoritmos (de cálculo)
+  - Programa de computador: algoritmo executado pelo computador
 
 ## O que é preciso para se fazer um programa de computador?
 Vamos precisar de:
@@ -52,19 +52,19 @@ programas.
 - Resumo da aula
   1. Linguagem: conjunto de regras léxicas e sintáticas para se escrever
   um programa
-    🔸Léxica = ortografia. Palavras isoladas.
-    🔸Sintática = gramática. Sentença como um todo.
-    🔸Exemplos de linguagens: C, Pascal, C++, Java, C#, Python, Ruby, PHP, JavaScript, etc.
+    - Léxica = ortografia. Palavras isoladas.
+    - Sintática = gramática. Sentença como um todo.
+    - Exemplos de linguagens: C, Pascal, C++, Java, C#, Python, Ruby, PHP, JavaScript, etc.
   2. Exemplo de códigos feitos em linguagem C, C++, C# e Java
 
 - Léxica: Diz respeito à correção das palavras "isoladas" (ortografia).
-  🔸Exemplo (Português): cachorro ✅ caxorro ❌
-  🔸Linguagem de programação:main ✅ maim ❌
+  - Exemplo (Português): cachorro ✅ caxorro ❌
+  - Linguagem de programação:main ✅ maim ❌
 - Sintática: Diz respeito à correção das sentenças (gramática).
-  🔸Exemplo (Português): O cachorro está com fome ✅ A cachorro está com fome ❌
-  🔸Linguagem de programação: x = 2 + y ✅ x = + 2 y ❌
+  - Exemplo (Português): O cachorro está com fome ✅ A cachorro está com fome ❌
+  - Linguagem de programação: x = 2 + y ✅ x = + 2 y ❌
 - Linguagem de programação
-  🔸 Exemplos de linguagens de programação: C, Pascal, C++, Java, C#, Python, Ruby, PHP, JavaScript, etc.
+  -  Exemplos de linguagens de programação: C, Pascal, C++, Java, C#, Python, Ruby, PHP, JavaScript, etc.
 - Exemplo de um programa:
   Suponha um programa que solicita do usuário dois números e depois mostra a média aritmética deles:
 ```c
@@ -181,28 +181,28 @@ readline.close();
 - IDE – Ambiente Integrado de Desenvolvimento
 - É um conjunto de softwares utilizado para a construção de programas.
 - Exemplos:
-  🔸C/C++ : Code Blocks
-  🔸Java : Eclipse, NetBeans
-  🔸C# : Microsoft Visual Studio
+  - C/C++ : Code Blocks
+  - Java : Eclipse, NetBeans
+  - C# : Microsoft Visual Studio
 - Funcionalidades de uma IDE
-  🔸Edição de código fonte (endentação, autocompletar, destaque de palavras, etc.)
-  🔸Depuração e testes
-  🔸Construção do produto final (build)
-  🔸Sugestão de modelos (templates)
-  🔸Auxiliar em várias tarefas do seu projeto
-  🔸Etc.
+  - Edição de código fonte (endentação, autocompletar, destaque de palavras, etc.)
+  - Depuração e testes
+  - Construção do produto final (build)
+  - Sugestão de modelos (templates)
+  - Auxiliar em várias tarefas do seu projeto
+  - Etc.
 - Resumo da aula
-  🔸IDE: é um conjunto de softwares utilizado para a construção de programas
-    🔸C/C++ : Code Blocks
-    🔸Java : Eclipse, NetBeans
-    🔸C# : Microsoft Visual Studio
-  🔸Uma IDE oferece várias funcionalidades para facilitar a construção dos programas
+  - IDE: é um conjunto de softwares utilizado para a construção de programas
+    - C/C++ : Code Blocks
+    - Java : Eclipse, NetBeans
+    - C# : Microsoft Visual Studio
+  - Uma IDE oferece várias funcionalidades para facilitar a construção dos programas
 
 ## Compilação e interpretação, Código fonte e objeto, Máquina virtual
 - Código fonte: é aquele escrito pelo programador em linguagem de programação
 - Compilação:
-  🔸 Processo de transformar o código fonte em código objeto ou código executável.
-  🔸 Etapas da Compilação:
+  -  Processo de transformar o código fonte em código objeto ou código executável.
+  -  Etapas da Compilação:
     1. Análise Léxica: O compilador divide o código fonte em tokens, que são as menores unidades significativas.
     2. Análise Sintática: Verifica a estrutura gramatical dos tokens de acordo com a sintaxe da linguagem de programação.
     3. Código Objeto: Após a análise, o código é convertido em um formato intermediário, específico da máquina, mas ainda 
@@ -210,14 +210,14 @@ readline.close();
     4. Gerador de Código: Construção (build) do código objeto em código executável otimizado para o sistema operacional 
     específico.
     5. Execução: O código executável é finalmente executado pelo hardware do sistema.
-  🔸 Exemplos: C, C++
+  -  Exemplos: C, C++
 - Interpretação:
   -  Processo de executar o código fonte diretamente, instrução por instrução, por meio de um interpretador.
-    🔸 Etapas da Interpretação:
+    -  Etapas da Interpretação:
         1. Análise Léxica e Sintática: Realizadas durante a execução, não gerando um código intermediário.
         2. Execução Direta: O interpretador lê, analisa e executa o código fonte em tempo real.
-    🔸 Flexibilidade e interatividade são vantagens, mas pode ser mais lento comparado ao código compilado.
-    🔸 Exemplos: PHP, Python, JavaScript
+    -  Flexibilidade e interatividade são vantagens, mas pode ser mais lento comparado ao código compilado.
+    -  Exemplos: PHP, Python, JavaScript
 - Abordagem híbrida:
   - Combina elementos de compilação e interpretação.
   - Etapas da Abordagem Híbrida:
@@ -227,12 +227,12 @@ readline.close();
   - Exemplos: Java (usando Java Virtual Machine - JVM), C# (usando Common Language Runtime - CLR)
   - A abordagem híbrida possui as seguintes vantagens:
     - Compilação:
-      🔸 velocidade do programa
-      🔸 auxílio do compilador antes da execução
+      -  velocidade do programa
+      -  auxílio do compilador antes da execução
     - Interpretação:
-      🔸 flexibilidade de manutenção do aplicativo em produção
-      🔸 expressividade da linguagem
-      🔸 código fonte não precisa ser recompilado para rodar em plataformas diferentes
+      -  flexibilidade de manutenção do aplicativo em produção
+      -  expressividade da linguagem
+      -  código fonte não precisa ser recompilado para rodar em plataformas diferentes
 
 - C / C++ PHP: Código fonte, Código executável (específico para o sistema operacional), Sistema Operacional, Hardware
 - Python, JavaScript: Código fonte, Interpretador (específico para o sistema operacional), Sistema Operacional, Hardware
@@ -240,12 +240,12 @@ readline.close();
 Sistema Operacional, Hardware
 
 - Resumo da aula
-  🔸 Tipos de código
-    🔸Código fonte
-    🔸Código objeto / bytecode
-  🔸Modelos de execução:
-    🔸Compilação
-      🔸Gerador de código
-    🔸Interpretação
-    🔸Abordagem híbrida
-      🔸Máquina virtual
+  -  Tipos de código
+    - Código fonte
+    - Código objeto / bytecode
+  - Modelos de execução:
+    - Compilação
+      - Gerador de código
+    - Interpretação
+    - Abordagem híbrida
+      - Máquina virtual
